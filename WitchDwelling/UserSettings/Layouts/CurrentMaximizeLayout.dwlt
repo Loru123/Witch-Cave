@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 29770
+  controlID: 1232
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 29771
+  controlID: 1182
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 29772
+  controlID: 1154
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -192,8 +192,8 @@ MonoBehaviour:
     y: 0
     width: 248
     height: 346.66666
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -235,10 +235,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 1007.3334}
+      scrollPos: {x: 0, y: 751.3334}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c2bfffff8ec1ffffe8f8ffff
+      m_ExpandedIDs: 02f5ffff72f8ffff92f8ffff96f8ffffa2f8ffffacf8fffff0f8ffff6cf9ffffc8f9ffff84faffffb8faffffcafaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -596,6 +596,19 @@ MonoBehaviour:
       size: {x: 0, y: 0}
       sizeOverriden: 0
     - dockPosition: 1
+      containerId: overlay-toolbar__top
+      floating: 0
+      collapsed: 1
+      displayed: 1
+      snapOffset: {x: -332.00006, y: -138.66667}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 3
+      id: UnityEditor.SceneViewCameraOverlay
+      index: 2
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
@@ -603,8 +616,8 @@ MonoBehaviour:
       snapOffset: {x: 48, y: 48}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
-      id: UnityEditor.SceneViewCameraOverlay
-      index: 8
+      id: UnityEditor.SceneViewCameraOverlay (0)
+      index: 9
       layout: 4
       size: {x: 0, y: 0}
       sizeOverriden: 0
@@ -619,9 +632,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.5820153, y: 5.86839, z: 2.3292904}
+    m_Target: {x: 3.720109, y: 4.273606, z: -2.173865}
     speed: 2
-    m_Value: {x: 1.5820153, y: 5.86839, z: 2.3292904}
+    m_Value: {x: 3.720109, y: 4.273606, z: -2.173865}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -667,13 +680,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.23222391, y: -0.59766126, z: 0.1864495, w: 0.7443876}
+    m_Target: {x: 0.14677742, y: -0.65627813, z: 0.13228059, w: 0.7281928}
     speed: 2
-    m_Value: {x: 0.23222353, y: -0.59766024, z: 0.18644919, w: 0.7443864}
+    m_Value: {x: 0.14677688, y: -0.6562757, z: 0.1322801, w: 0.7281901}
   m_Size:
-    m_Target: 0.0664437
+    m_Target: 9.279253
     speed: 2
-    m_Value: 0.0664437
+    m_Value: 9.279253
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -717,8 +730,8 @@ MonoBehaviour:
     y: 346.66666
     width: 1004.6667
     height: 266.00003
-  m_MinSize: {x: 231, y: 271}
-  m_MaxSize: {x: 10001, y: 10021}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -786,9 +799,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 60}
-    m_SelectedIDs: 0a1e0000
-    m_LastClickedID: 7690
-    m_ExpandedIDs: 000000000a5e000000ca9a3bffffff7f
+    m_SelectedIDs: 625c0000
+    m_LastClickedID: 23650
+    m_ExpandedIDs: 000000004a5c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -816,7 +829,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000a5e000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000004a5c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -868,7 +881,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 201.99997}
+    m_ScrollPosition: {x: 0, y: 307}
     m_GridSize: 96
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
