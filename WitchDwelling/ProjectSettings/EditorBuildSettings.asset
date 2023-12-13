@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inside Cabin.unity
+    guid: c6eb3e08f59aa404999e7942bd7d4a8b
+  - enabled: 1
+    path: Assets/Scenes/Outside.unity
+    guid: f564f2ade153f854e882b3d112cfd542
   m_configObjects: {}
