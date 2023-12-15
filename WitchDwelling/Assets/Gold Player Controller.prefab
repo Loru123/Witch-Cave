@@ -962,8 +962,8 @@ GameObject:
   - component: {fileID: 119889907814869460}
   - component: {fileID: 2266438007366228925}
   - component: {fileID: 4655813122486824848}
+  - component: {fileID: 2164165086611343323}
   - component: {fileID: 4014150214602251119}
-  - component: {fileID: 7385535486739093041}
   - component: {fileID: 5889668226444913156}
   m_Layer: 1
   m_Name: Capsule
@@ -1037,6 +1037,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &2164165086611343323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6364718476553123569}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbaef892b40f87a43b2922ec150e9e8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roomName: Inside Cabin
 --- !u!136 &4014150214602251119
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1060,19 +1073,6 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &7385535486739093041
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6364718476553123569}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbaef892b40f87a43b2922ec150e9e8f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  roomName: Outside
 --- !u!54 &5889668226444913156
 Rigidbody:
   m_ObjectHideFlags: 0
